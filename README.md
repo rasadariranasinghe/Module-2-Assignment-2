@@ -30,4 +30,4 @@ The script has been adjusted to run on every worksheet (quarter) in the workbook
 
 ## Compatibility
 
-This script is compatible with Microsoft Excel. Ensure that macros are enabled in your Excel settings to run the script succ
+This script is compatible with Microsoft Excel. Ensure that macros are enabled in your Excel settings to run the script successfully.
